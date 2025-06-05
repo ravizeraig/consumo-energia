@@ -1,0 +1,12 @@
+# Ignorar variáveis de ambiente
+main/.env
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar planilhas geradas
+*.xlsx
+
+# Ignorar ambientes virtuais
+venv/

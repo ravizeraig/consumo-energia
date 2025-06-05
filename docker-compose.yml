@@ -1,0 +1,35 @@
+#version: "3.9"
+
+services:
+  app:
+    build: .
+    container_name: relatorio-app
+    env_file:
+      - .env
+    depends_on:
+      - db
+    volumes:
+      - .:/app
+    networks:
+      - relatorio-net
+
+  db:
+    image: postgres:15
+    container_name: relatorio-db
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: SmpTst.1010
+      POSTGRES_DB: ci_cd
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - relatorio-net
+
+volumes:
+  postgres_data:
+
+networks:
+  relatorio-net:

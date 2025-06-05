@@ -1,0 +1,501 @@
+Data,Produto,Categoria,Quantidade,Preço Unitário,Cliente,Cidade,Consumo (kWh)
+2025-03-26,Televisão,Entretenimento,1,2537.32,Milena Pires,Rio de Janeiro,110.42
+2025-04-29,Ar Condicionado,Climatização,2,117.13,Vitor Hugo Peixoto,Rio de Janeiro,72.62
+2025-05-22,Geladeira,Eletrodoméstico,4,907.5,Dra. Amanda da Cunha,São Paulo,178.1
+2025-03-29,Geladeira,Eletrodoméstico,2,2312.79,Isabel Alves,Rio de Janeiro,104.57
+2025-05-19,Televisão,Entretenimento,1,101.73,Rebeca Santos,Salvador,31.55
+2025-03-30,Ar Condicionado,Climatização,3,2750.5,Danilo Aragão,Brasília,125.48
+2025-04-18,Geladeira,Eletrodoméstico,5,2503.71,Vitória Fogaça,São Paulo,48.68
+2025-03-14,Geladeira,Eletrodoméstico,1,707.22,Ana Julia Dias,São Paulo,127.93
+2025-05-18,Ar Condicionado,Climatização,4,2954.69,João Vitor da Conceição,São Paulo,87.24
+2025-05-02,Forno Elétrico,Cozinha,4,2326.39,Maria Sophia Cardoso,Rio de Janeiro,155.34
+2025-05-27,Chuveiro Elétrico,Banheiro,3,1409.94,João Pedro Azevedo,São Paulo,147.45
+2025-04-01,Chuveiro Elétrico,Banheiro,5,660.61,Carolina Costa,Rio de Janeiro,109.59
+2025-05-10,Ar Condicionado,Climatização,4,970.32,Maria Cecília Caldeira,São Paulo,194.74
+2025-03-29,Forno Elétrico,Cozinha,3,1880.86,Maria Ferreira,Curitiba,33.02
+2025-03-16,Televisão,Entretenimento,5,238.11,Maria Clara Melo,Rio de Janeiro,32.96
+2025-03-17,Geladeira,Eletrodoméstico,1,1915.05,Thiago Cavalcanti,Belo Horizonte,35.27
+2025-03-17,Micro-ondas,Cozinha,1,665.25,Rafaela Lopes,Belo Horizonte,52.28
+2025-04-07,Chuveiro Elétrico,Banheiro,2,1235.11,Evelyn Cavalcanti,Belo Horizonte,36.12
+2025-05-18,Ar Condicionado,Climatização,3,2233.89,Sr. Guilherme Carvalho,Salvador,46.01
+2025-05-09,Micro-ondas,Cozinha,1,2384.62,Bruno Aragão,Brasília,43.64
+2025-03-17,Ar Condicionado,Climatização,4,311.16,Luigi Rodrigues,Brasília,36.29
+2025-04-01,Micro-ondas,Cozinha,4,2203.4,Enzo Gabriel Souza,Salvador,129.31
+2025-03-02,Micro-ondas,Cozinha,2,2124.78,Felipe Fogaça,Belo Horizonte,131.34
+2025-03-16,Geladeira,Eletrodoméstico,2,2587.98,Anthony Carvalho,Curitiba,49.9
+2025-04-11,Ar Condicionado,Climatização,5,754.29,Ana Vieira,Curitiba,77.87
+2025-04-15,Geladeira,Eletrodoméstico,3,2804.1,Luiz Gustavo Lopes,Belo Horizonte,47.61
+2025-03-26,Geladeira,Eletrodoméstico,1,1032.68,Dra. Gabrielly da Luz,Belo Horizonte,37.64
+2025-04-14,Forno Elétrico,Cozinha,5,812.11,Laís Vieira,Belo Horizonte,80.17
+2025-03-05,Geladeira,Eletrodoméstico,2,1426.84,Lucas Gabriel da Luz,Belo Horizonte,169.21
+2025-04-26,Geladeira,Eletrodoméstico,5,306.4,Bruna Rodrigues,São Paulo,110.33
+2025-05-14,Ar Condicionado,Climatização,3,1420.82,Bianca Duarte,Curitiba,62.05
+2025-05-23,Televisão,Entretenimento,2,279.05,Mariane da Cruz,Belo Horizonte,61.3
+2025-03-28,Micro-ondas,Cozinha,5,423.08,Raquel da Cunha,Curitiba,198.36
+2025-03-17,Micro-ondas,Cozinha,2,777.07,Gustavo Henrique Almeida,Brasília,141.73
+2025-04-08,Micro-ondas,Cozinha,2,2914.69,Sr. João Vitor Azevedo,Belo Horizonte,88.01
+2025-04-07,Forno Elétrico,Cozinha,1,1328.07,Maria Oliveira,São Paulo,88.89
+2025-05-21,Forno Elétrico,Cozinha,2,935.69,Juan Rodrigues,Belo Horizonte,34.26
+2025-05-06,Geladeira,Eletrodoméstico,4,869.81,Alexia Nunes,Salvador,54.69
+2025-05-19,Forno Elétrico,Cozinha,3,1245.72,Otávio Teixeira,Brasília,180.33
+2025-04-17,Televisão,Entretenimento,3,673.37,Beatriz Freitas,Belo Horizonte,85.71
+2025-04-23,Chuveiro Elétrico,Banheiro,1,856.41,Dra. Luana Souza,Salvador,42.09
+2025-04-14,Forno Elétrico,Cozinha,4,619.46,Srta. Daniela Nunes,Belo Horizonte,129.35
+2025-04-16,Forno Elétrico,Cozinha,1,1874.48,Thiago Gomes,Curitiba,150.18
+2025-04-17,Micro-ondas,Cozinha,3,1345.11,Maria Eduarda Lima,Rio de Janeiro,32.72
+2025-04-22,Televisão,Entretenimento,5,448.1,Daniel Costa,São Paulo,73.07
+2025-03-04,Ar Condicionado,Climatização,1,729.19,Maria Alice da Cruz,Curitiba,39.0
+2025-04-22,Televisão,Entretenimento,2,2926.51,Enzo Gabriel Lopes,Brasília,113.81
+2025-04-09,Ar Condicionado,Climatização,2,2915.69,Davi Campos,São Paulo,85.78
+2025-03-05,Televisão,Entretenimento,1,1915.14,Clarice Cardoso,Brasília,56.92
+2025-04-20,Forno Elétrico,Cozinha,5,239.79,Sophia Cavalcanti,Salvador,104.51
+2025-05-25,Chuveiro Elétrico,Banheiro,5,765.04,Carolina Monteiro,Belo Horizonte,157.15
+2025-03-27,Forno Elétrico,Cozinha,5,1585.56,Beatriz da Rocha,Belo Horizonte,77.62
+2025-05-08,Televisão,Entretenimento,4,1137.48,Enzo Caldeira,Salvador,47.37
+2025-03-25,Micro-ondas,Cozinha,1,209.35,Sr. Bernardo da Cruz,São Paulo,59.13
+2025-04-25,Forno Elétrico,Cozinha,5,885.3,Renan Ribeiro,São Paulo,113.14
+2025-05-12,Micro-ondas,Cozinha,2,2775.72,Alana Rezende,São Paulo,61.96
+2025-03-01,Micro-ondas,Cozinha,5,1319.29,Maria Julia Rodrigues,Brasília,14.61
+2025-04-08,Televisão,Entretenimento,2,1920.59,Elisa Nogueira,Salvador,109.66
+2025-03-22,Geladeira,Eletrodoméstico,5,2338.81,Milena Vieira,São Paulo,178.97
+2025-03-01,Chuveiro Elétrico,Banheiro,3,531.48,Luiz Henrique Freitas,Salvador,129.74
+2025-04-08,Televisão,Entretenimento,1,1258.81,Bernardo Barbosa,Salvador,157.63
+2025-02-28,Ar Condicionado,Climatização,2,2601.58,Rafaela Pinto,Brasília,13.36
+2025-05-03,Forno Elétrico,Cozinha,4,1881.33,Gabrielly Carvalho,Belo Horizonte,16.09
+2025-03-13,Forno Elétrico,Cozinha,2,160.33,Natália Costa,Belo Horizonte,143.02
+2025-03-28,Micro-ondas,Cozinha,2,2589.55,Sr. Fernando Pinto,Curitiba,182.25
+2025-04-19,Televisão,Entretenimento,3,760.96,Maria Cecília Porto,Belo Horizonte,174.19
+2025-04-01,Ar Condicionado,Climatização,2,1117.5,Sra. Emanuelly Peixoto,Curitiba,127.8
+2025-04-13,Ar Condicionado,Climatização,1,563.33,Fernanda Pereira,Brasília,181.56
+2025-04-12,Ar Condicionado,Climatização,2,2798.33,Maitê Nascimento,Belo Horizonte,38.47
+2025-05-19,Geladeira,Eletrodoméstico,3,630.74,Srta. Mariane Viana,Belo Horizonte,115.97
+2025-04-15,Televisão,Entretenimento,2,1936.49,Calebe Pereira,Belo Horizonte,18.71
+2025-04-09,Micro-ondas,Cozinha,4,2006.37,Srta. Raquel Silveira,Salvador,175.18
+2025-05-06,Chuveiro Elétrico,Banheiro,1,1934.71,Beatriz Cunha,Brasília,33.08
+2025-04-21,Ar Condicionado,Climatização,3,518.3,Lavínia Azevedo,Brasília,44.69
+2025-05-18,Televisão,Entretenimento,1,2314.7,Laura Azevedo,São Paulo,14.78
+2025-04-09,Micro-ondas,Cozinha,3,2913.1,Giovanna Gonçalves,Curitiba,143.27
+2025-03-16,Micro-ondas,Cozinha,4,1395.78,Laís Peixoto,Belo Horizonte,123.72
+2025-05-28,Geladeira,Eletrodoméstico,5,1371.08,Rafaela Costa,Salvador,48.88
+2025-05-15,Forno Elétrico,Cozinha,2,2652.75,Isabella Correia,Rio de Janeiro,148.27
+2025-05-02,Forno Elétrico,Cozinha,4,903.92,Emanuelly Freitas,Brasília,160.07
+2025-04-23,Micro-ondas,Cozinha,2,1036.45,Mirella Pires,São Paulo,189.92
+2025-03-18,Forno Elétrico,Cozinha,1,1341.78,Nicolas Azevedo,Curitiba,196.5
+2025-03-02,Forno Elétrico,Cozinha,4,460.06,João Guilherme Moura,Curitiba,178.44
+2025-04-13,Televisão,Entretenimento,5,1485.85,Isis Viana,Belo Horizonte,66.33
+2025-05-09,Geladeira,Eletrodoméstico,1,1067.8,Enzo Gabriel Lima,Belo Horizonte,45.16
+2025-05-15,Chuveiro Elétrico,Banheiro,3,2463.78,Eduardo da Mota,Belo Horizonte,124.55
+2025-04-04,Ar Condicionado,Climatização,3,2016.92,Bianca da Rocha,Belo Horizonte,171.79
+2025-04-06,Geladeira,Eletrodoméstico,3,1181.15,Isis da Mata,Rio de Janeiro,41.11
+2025-03-13,Geladeira,Eletrodoméstico,2,1678.0,Fernanda das Neves,Rio de Janeiro,124.32
+2025-03-29,Micro-ondas,Cozinha,1,653.61,Dr. João Gabriel Campos,Rio de Janeiro,195.86
+2025-05-04,Micro-ondas,Cozinha,1,1936.87,Samuel da Mata,Salvador,113.37
+2025-05-20,Geladeira,Eletrodoméstico,4,753.85,Joaquim Sales,Curitiba,122.66
+2025-05-03,Geladeira,Eletrodoméstico,2,2487.36,Felipe Alves,Rio de Janeiro,70.3
+2025-05-21,Televisão,Entretenimento,5,606.65,Nicolas Costela,Rio de Janeiro,58.95
+2025-04-02,Chuveiro Elétrico,Banheiro,1,780.24,Sr. Davi Luiz Pereira,Brasília,114.98
+2025-04-08,Forno Elétrico,Cozinha,2,1381.48,Beatriz Alves,Belo Horizonte,69.28
+2025-04-28,Chuveiro Elétrico,Banheiro,1,1806.58,Larissa Pinto,Curitiba,40.15
+2025-04-15,Forno Elétrico,Cozinha,1,620.38,Stella Jesus,Brasília,74.71
+2025-03-19,Forno Elétrico,Cozinha,2,224.75,Sarah Castro,Curitiba,94.86
+2025-03-04,Ar Condicionado,Climatização,2,1099.92,Eloah Alves,Curitiba,98.99
+2025-03-24,Geladeira,Eletrodoméstico,2,1642.57,Sr. Levi da Costa,Curitiba,48.6
+2025-05-19,Chuveiro Elétrico,Banheiro,3,784.56,João Felipe Farias,Curitiba,152.09
+2025-03-19,Televisão,Entretenimento,5,2423.44,Marcela da Mata,Belo Horizonte,49.25
+2025-04-16,Chuveiro Elétrico,Banheiro,5,2748.08,Lorenzo Costa,Belo Horizonte,35.22
+2025-05-15,Televisão,Entretenimento,3,934.77,Srta. Ana Luiza da Mota,Salvador,182.53
+2025-05-18,Chuveiro Elétrico,Banheiro,5,1191.97,Dra. Ana Luiza Moreira,Rio de Janeiro,180.33
+2025-05-06,Chuveiro Elétrico,Banheiro,2,1244.68,Miguel Moura,São Paulo,66.5
+2025-05-11,Chuveiro Elétrico,Banheiro,2,110.71,Nathan Barros,Belo Horizonte,157.36
+2025-03-19,Ar Condicionado,Climatização,4,2072.79,Raul Silveira,Brasília,169.77
+2025-04-11,Ar Condicionado,Climatização,5,1665.04,Murilo Castro,Belo Horizonte,80.49
+2025-03-23,Micro-ondas,Cozinha,2,449.52,Marcelo Correia,Brasília,49.31
+2025-04-11,Ar Condicionado,Climatização,2,1848.31,Cauã Ferreira,Rio de Janeiro,166.94
+2025-04-16,Chuveiro Elétrico,Banheiro,3,2584.04,Sra. Agatha Pereira,São Paulo,136.11
+2025-03-13,Televisão,Entretenimento,4,644.14,Sr. Danilo Barros,Curitiba,78.36
+2025-05-09,Chuveiro Elétrico,Banheiro,3,216.93,Felipe Oliveira,Salvador,129.9
+2025-05-05,Geladeira,Eletrodoméstico,4,1050.85,Ana Carolina Araújo,Brasília,189.46
+2025-03-04,Geladeira,Eletrodoméstico,3,328.41,Emanuel Duarte,Rio de Janeiro,76.44
+2025-04-11,Forno Elétrico,Cozinha,4,2814.46,Gabriela Castro,Belo Horizonte,179.96
+2025-03-18,Chuveiro Elétrico,Banheiro,2,2543.04,Giovanna Fogaça,Curitiba,64.78
+2025-03-18,Geladeira,Eletrodoméstico,4,689.49,Raquel Campos,Belo Horizonte,79.22
+2025-03-05,Micro-ondas,Cozinha,2,1808.78,Luiz Felipe Araújo,Belo Horizonte,160.05
+2025-05-21,Televisão,Entretenimento,1,131.21,Miguel Nunes,São Paulo,16.91
+2025-05-16,Televisão,Entretenimento,1,2125.03,Luiz Felipe Martins,Rio de Janeiro,99.42
+2025-03-15,Micro-ondas,Cozinha,1,1696.01,João Lucas Ramos,Curitiba,154.88
+2025-05-23,Forno Elétrico,Cozinha,1,1381.05,Sr. Alexandre Porto,Curitiba,186.37
+2025-03-14,Micro-ondas,Cozinha,1,2301.91,Dr. Vitor Ferreira,Salvador,68.81
+2025-05-15,Chuveiro Elétrico,Banheiro,1,621.94,Davi Lucas Rodrigues,Rio de Janeiro,157.87
+2025-05-11,Ar Condicionado,Climatização,5,2049.09,Levi Cardoso,Rio de Janeiro,120.6
+2025-04-08,Forno Elétrico,Cozinha,3,1426.73,Davi Lucas Lopes,São Paulo,83.3
+2025-05-01,Televisão,Entretenimento,4,2602.95,Bárbara Cardoso,São Paulo,82.03
+2025-03-05,Chuveiro Elétrico,Banheiro,2,1709.28,Larissa Gomes,Belo Horizonte,157.09
+2025-03-25,Micro-ondas,Cozinha,3,1008.88,Srta. Juliana da Cunha,Curitiba,155.55
+2025-04-12,Ar Condicionado,Climatização,2,1657.93,Murilo Martins,Salvador,167.01
+2025-05-09,Ar Condicionado,Climatização,3,865.58,Srta. Brenda Pinto,São Paulo,72.42
+2025-05-05,Chuveiro Elétrico,Banheiro,2,590.5,Diogo Souza,Brasília,44.93
+2025-05-18,Chuveiro Elétrico,Banheiro,1,1418.95,Luiz Miguel Silva,Belo Horizonte,155.82
+2025-05-25,Micro-ondas,Cozinha,1,678.14,João Felipe da Rocha,Rio de Janeiro,108.83
+2025-05-28,Forno Elétrico,Cozinha,2,2398.37,Dr. Vitor da Costa,São Paulo,134.25
+2025-05-10,Forno Elétrico,Cozinha,1,2178.26,Rebeca Ramos,São Paulo,26.15
+2025-04-16,Forno Elétrico,Cozinha,3,790.79,Benício Fogaça,Curitiba,82.58
+2025-03-02,Geladeira,Eletrodoméstico,2,2897.73,Dra. Ana Beatriz Caldeira,Curitiba,116.58
+2025-04-14,Forno Elétrico,Cozinha,5,2600.69,Srta. Maria Sophia Ferreira,Belo Horizonte,192.07
+2025-03-11,Micro-ondas,Cozinha,2,805.49,Dr. Emanuel Costela,São Paulo,177.9
+2025-04-22,Ar Condicionado,Climatização,2,2770.78,Ana Sophia Moraes,Curitiba,79.69
+2025-03-27,Chuveiro Elétrico,Banheiro,5,2502.12,Dr. Cauê Silveira,Salvador,16.65
+2025-03-23,Chuveiro Elétrico,Banheiro,2,770.57,Maria Eduarda Melo,Rio de Janeiro,133.86
+2025-03-25,Televisão,Entretenimento,5,2648.71,Gabriela Barros,São Paulo,71.43
+2025-04-02,Geladeira,Eletrodoméstico,1,1571.16,Emilly da Mota,Salvador,149.73
+2025-05-06,Ar Condicionado,Climatização,4,1397.62,Vinicius Rezende,Brasília,22.14
+2025-04-20,Forno Elétrico,Cozinha,2,1910.8,Maria Luiza da Costa,Salvador,159.34
+2025-05-12,Chuveiro Elétrico,Banheiro,2,2363.76,Nicole Teixeira,Belo Horizonte,44.6
+2025-03-04,Ar Condicionado,Climatização,4,1770.28,Clara Moraes,Curitiba,102.67
+2025-03-16,Forno Elétrico,Cozinha,3,2615.08,Lorena Rocha,Rio de Janeiro,173.25
+2025-04-20,Forno Elétrico,Cozinha,4,2270.88,Vitória Castro,Salvador,143.89
+2025-03-31,Televisão,Entretenimento,1,1460.91,Larissa da Mata,Curitiba,60.15
+2025-05-10,Geladeira,Eletrodoméstico,1,2766.38,Daniela Rezende,Curitiba,19.52
+2025-03-04,Micro-ondas,Cozinha,2,2986.87,Alexandre Lima,Brasília,187.96
+2025-05-28,Chuveiro Elétrico,Banheiro,2,2737.53,Ana Vitória da Mata,Belo Horizonte,196.12
+2025-05-09,Chuveiro Elétrico,Banheiro,2,830.46,Heloísa Araújo,Brasília,108.02
+2025-05-28,Chuveiro Elétrico,Banheiro,2,2450.02,Letícia Campos,Curitiba,73.55
+2025-05-06,Geladeira,Eletrodoméstico,2,2741.26,Davi das Neves,Curitiba,76.53
+2025-04-09,Ar Condicionado,Climatização,5,1459.53,Luiz Otávio Pereira,São Paulo,161.33
+2025-05-11,Televisão,Entretenimento,3,1284.29,Stephany Viana,Belo Horizonte,157.95
+2025-05-27,Ar Condicionado,Climatização,4,2415.43,Giovanna Barbosa,Salvador,80.59
+2025-03-11,Ar Condicionado,Climatização,1,899.83,Ana Beatriz Santos,Rio de Janeiro,110.26
+2025-03-29,Geladeira,Eletrodoméstico,4,2291.13,Fernando Campos,Curitiba,75.04
+2025-05-12,Micro-ondas,Cozinha,1,130.13,Pedro Lucas Peixoto,Brasília,43.57
+2025-05-01,Chuveiro Elétrico,Banheiro,4,872.85,Lucas Gabriel Duarte,Curitiba,129.11
+2025-04-16,Geladeira,Eletrodoméstico,1,1363.93,Alana da Costa,Brasília,131.34
+2025-04-01,Micro-ondas,Cozinha,3,102.57,Isabella Lima,Rio de Janeiro,136.41
+2025-05-20,Televisão,Entretenimento,3,258.36,Ana Júlia Costa,Brasília,147.31
+2025-04-09,Televisão,Entretenimento,3,834.79,Srta. Clarice Rocha,Belo Horizonte,63.61
+2025-04-06,Chuveiro Elétrico,Banheiro,5,2501.21,Larissa Porto,Brasília,123.87
+2025-04-15,Ar Condicionado,Climatização,2,1776.55,Luiz Fernando Araújo,Curitiba,69.32
+2025-03-31,Chuveiro Elétrico,Banheiro,4,2480.41,Arthur Moura,Brasília,197.2
+2025-04-11,Ar Condicionado,Climatização,3,1855.36,Pedro Henrique Cavalcanti,Rio de Janeiro,75.65
+2025-05-14,Chuveiro Elétrico,Banheiro,2,1400.17,Mariana Nascimento,Belo Horizonte,151.77
+2025-05-28,Geladeira,Eletrodoméstico,2,2772.95,Maria Cecília Rocha,Salvador,63.28
+2025-05-05,Televisão,Entretenimento,2,1051.73,Gabriel Ribeiro,Rio de Janeiro,188.01
+2025-04-25,Forno Elétrico,Cozinha,1,2361.68,Gabrielly Oliveira,São Paulo,128.9
+2025-05-10,Ar Condicionado,Climatização,2,120.69,Alícia Aragão,Curitiba,197.98
+2025-03-18,Geladeira,Eletrodoméstico,4,1645.95,Ana Beatriz da Mata,Belo Horizonte,26.43
+2025-03-05,Forno Elétrico,Cozinha,2,2681.83,Luiz Otávio Jesus,Curitiba,83.57
+2025-05-18,Forno Elétrico,Cozinha,4,431.43,Samuel da Mota,Rio de Janeiro,108.0
+2025-03-18,Ar Condicionado,Climatização,2,1465.05,Thales Castro,Belo Horizonte,188.26
+2025-03-05,Geladeira,Eletrodoméstico,3,1888.54,Noah Gomes,Curitiba,189.49
+2025-05-01,Ar Condicionado,Climatização,4,461.43,Melissa Costa,Belo Horizonte,102.02
+2025-05-25,Chuveiro Elétrico,Banheiro,2,173.99,Levi Barros,Belo Horizonte,172.77
+2025-05-23,Televisão,Entretenimento,1,1393.13,Maysa Moura,Belo Horizonte,127.39
+2025-03-07,Televisão,Entretenimento,4,1602.83,Catarina Fogaça,Belo Horizonte,93.63
+2025-05-11,Ar Condicionado,Climatização,4,923.2,Júlia Azevedo,São Paulo,129.47
+2025-04-28,Forno Elétrico,Cozinha,3,1651.25,Srta. Natália Rezende,São Paulo,153.74
+2025-05-17,Televisão,Entretenimento,2,2736.38,Dr. Lucca Oliveira,Belo Horizonte,13.39
+2025-03-12,Televisão,Entretenimento,2,2640.31,Bárbara Dias,Curitiba,72.58
+2025-05-07,Televisão,Entretenimento,3,476.21,Marcela Duarte,Curitiba,20.18
+2025-03-10,Forno Elétrico,Cozinha,1,1355.16,Igor Costa,Rio de Janeiro,57.14
+2025-04-12,Ar Condicionado,Climatização,4,1300.3,Kaique da Cunha,Salvador,24.6
+2025-05-16,Televisão,Entretenimento,4,502.09,Ana Mendes,Belo Horizonte,148.03
+2025-05-07,Geladeira,Eletrodoméstico,1,2140.19,Carolina da Luz,Belo Horizonte,128.21
+2025-03-25,Micro-ondas,Cozinha,1,1709.71,Rodrigo Gonçalves,Curitiba,77.47
+2025-05-07,Forno Elétrico,Cozinha,4,1809.41,Cauê Silva,Salvador,168.44
+2025-05-01,Geladeira,Eletrodoméstico,1,733.02,Caio Oliveira,Curitiba,100.75
+2025-04-28,Televisão,Entretenimento,5,1897.36,Dra. Caroline Rodrigues,Brasília,138.73
+2025-05-05,Micro-ondas,Cozinha,2,2054.76,Diogo Fogaça,Curitiba,150.79
+2025-04-17,Ar Condicionado,Climatização,1,1560.65,Sra. Isabelly Farias,São Paulo,193.5
+2025-04-20,Chuveiro Elétrico,Banheiro,3,323.31,Erick Ribeiro,São Paulo,176.77
+2025-04-02,Forno Elétrico,Cozinha,3,1577.47,Manuela Ribeiro,São Paulo,123.71
+2025-03-24,Televisão,Entretenimento,2,207.28,Sra. Joana Pinto,Belo Horizonte,163.71
+2025-04-19,Micro-ondas,Cozinha,4,1893.19,Marcelo Cardoso,Curitiba,22.19
+2025-03-17,Micro-ondas,Cozinha,4,569.78,Pedro Henrique da Costa,Belo Horizonte,181.0
+2025-05-25,Ar Condicionado,Climatização,1,199.41,Julia Carvalho,Rio de Janeiro,162.59
+2025-03-26,Televisão,Entretenimento,1,813.96,Srta. Natália Fogaça,Brasília,16.09
+2025-05-19,Micro-ondas,Cozinha,4,1726.22,Bárbara da Paz,Rio de Janeiro,80.46
+2025-05-21,Ar Condicionado,Climatização,5,2291.14,Letícia Jesus,Belo Horizonte,90.17
+2025-04-21,Forno Elétrico,Cozinha,3,213.86,Sophie Pinto,Salvador,97.57
+2025-05-18,Ar Condicionado,Climatização,1,1557.54,Nicole Vieira,Salvador,127.95
+2025-03-19,Ar Condicionado,Climatização,5,1971.38,Luana Campos,Curitiba,31.63
+2025-05-14,Ar Condicionado,Climatização,3,1792.85,Lara da Rocha,Salvador,159.91
+2025-03-05,Chuveiro Elétrico,Banheiro,5,2205.6,Sra. Laura da Conceição,Brasília,45.52
+2025-04-12,Forno Elétrico,Cozinha,4,692.49,João Novaes,Brasília,51.38
+2025-03-31,Geladeira,Eletrodoméstico,5,2100.97,Dra. Marina da Costa,Rio de Janeiro,50.42
+2025-04-20,Forno Elétrico,Cozinha,2,535.05,Isabella Ramos,Brasília,60.2
+2025-04-29,Forno Elétrico,Cozinha,3,994.02,Natália Silva,Curitiba,59.69
+2025-05-28,Televisão,Entretenimento,1,1958.96,Sr. Thales Correia,Salvador,190.3
+2025-03-24,Televisão,Entretenimento,1,2715.04,Srta. Stella Souza,Salvador,163.71
+2025-05-23,Televisão,Entretenimento,4,1751.49,Alice Azevedo,São Paulo,100.82
+2025-03-11,Forno Elétrico,Cozinha,4,1974.0,Dr. Marcelo Barbosa,São Paulo,99.73
+2025-05-04,Micro-ondas,Cozinha,3,1197.42,Lucas da Luz,Curitiba,192.12
+2025-04-20,Forno Elétrico,Cozinha,5,609.42,Joaquim Martins,Belo Horizonte,160.41
+2025-04-17,Forno Elétrico,Cozinha,1,493.72,Manuela Rocha,Curitiba,74.25
+2025-05-15,Televisão,Entretenimento,3,2867.78,Kevin Nogueira,Rio de Janeiro,29.53
+2025-05-03,Ar Condicionado,Climatização,3,2596.04,Natália da Mata,Brasília,115.85
+2025-04-10,Micro-ondas,Cozinha,2,1332.47,Luiz Fernando Porto,Brasília,143.17
+2025-03-14,Chuveiro Elétrico,Banheiro,2,1705.95,Diego Novaes,Salvador,112.02
+2025-04-30,Micro-ondas,Cozinha,2,567.46,Joaquim da Mata,Belo Horizonte,107.06
+2025-05-17,Micro-ondas,Cozinha,1,1505.93,Paulo da Conceição,Belo Horizonte,53.96
+2025-03-03,Chuveiro Elétrico,Banheiro,2,2287.03,Ana Beatriz Cunha,Curitiba,166.61
+2025-05-04,Ar Condicionado,Climatização,1,1007.73,Davi Ribeiro,Rio de Janeiro,12.99
+2025-04-21,Chuveiro Elétrico,Banheiro,2,1747.73,Rebeca Carvalho,Rio de Janeiro,39.29
+2025-04-03,Chuveiro Elétrico,Banheiro,5,923.76,Brenda da Mata,Belo Horizonte,38.1
+2025-03-04,Geladeira,Eletrodoméstico,1,1205.96,Sabrina Monteiro,Rio de Janeiro,77.33
+2025-03-28,Ar Condicionado,Climatização,4,551.43,Arthur da Paz,Salvador,58.77
+2025-04-27,Micro-ondas,Cozinha,1,2461.16,Ana Laura Viana,Rio de Janeiro,170.16
+2025-05-20,Forno Elétrico,Cozinha,3,2269.7,Vinicius Cardoso,São Paulo,79.96
+2025-04-14,Ar Condicionado,Climatização,3,2504.24,Eloah Moreira,São Paulo,111.61
+2025-03-05,Micro-ondas,Cozinha,2,2495.96,Rebeca Caldeira,São Paulo,181.99
+2025-05-16,Micro-ondas,Cozinha,1,1620.71,Luna da Costa,Curitiba,34.77
+2025-04-29,Ar Condicionado,Climatização,3,385.7,Giovanna Ribeiro,Curitiba,30.85
+2025-04-05,Televisão,Entretenimento,1,2691.27,Lorenzo Fogaça,Salvador,13.64
+2025-03-21,Geladeira,Eletrodoméstico,5,2709.07,Ryan Pereira,São Paulo,98.04
+2025-05-02,Geladeira,Eletrodoméstico,5,1063.9,Leandro Moreira,Salvador,117.31
+2025-04-24,Ar Condicionado,Climatização,5,1850.26,Lívia da Rocha,Brasília,192.23
+2025-03-23,Chuveiro Elétrico,Banheiro,4,2726.91,Yago Cavalcanti,Brasília,113.55
+2025-04-22,Chuveiro Elétrico,Banheiro,5,468.3,Giovanna Aragão,Salvador,118.56
+2025-04-05,Forno Elétrico,Cozinha,1,153.6,André Castro,Salvador,25.92
+2025-03-08,Chuveiro Elétrico,Banheiro,4,167.24,Julia Costa,Brasília,145.03
+2025-04-26,Geladeira,Eletrodoméstico,4,2479.07,Sr. Danilo Campos,São Paulo,50.19
+2025-04-03,Geladeira,Eletrodoméstico,2,1116.75,Emanuella da Cunha,Rio de Janeiro,90.73
+2025-03-10,Televisão,Entretenimento,4,2310.52,Dra. Luana Pinto,São Paulo,55.6
+2025-03-24,Ar Condicionado,Climatização,2,914.92,Vitória Souza,Curitiba,46.71
+2025-05-12,Forno Elétrico,Cozinha,5,2791.53,Ana Lívia Oliveira,Rio de Janeiro,162.03
+2025-03-01,Ar Condicionado,Climatização,3,855.83,Caio Freitas,São Paulo,132.74
+2025-03-20,Forno Elétrico,Cozinha,5,696.67,Vitor Hugo Rezende,Belo Horizonte,111.3
+2025-04-09,Chuveiro Elétrico,Banheiro,3,2116.94,Maria Luiza Alves,São Paulo,130.82
+2025-05-18,Geladeira,Eletrodoméstico,5,1360.97,Dra. Catarina das Neves,Salvador,36.82
+2025-04-25,Chuveiro Elétrico,Banheiro,5,1680.68,Sra. Daniela Pires,Rio de Janeiro,62.88
+2025-04-20,Micro-ondas,Cozinha,5,915.16,Lara Pereira,Rio de Janeiro,106.34
+2025-05-07,Ar Condicionado,Climatização,4,979.08,Caroline Freitas,Belo Horizonte,35.55
+2025-04-18,Geladeira,Eletrodoméstico,1,1182.98,Srta. Ana Luiza da Mota,Belo Horizonte,150.6
+2025-03-11,Geladeira,Eletrodoméstico,4,2067.23,Luiz Felipe Cavalcanti,Belo Horizonte,36.55
+2025-05-19,Ar Condicionado,Climatização,3,212.29,Vitória Mendes,Belo Horizonte,11.26
+2025-05-28,Ar Condicionado,Climatização,5,1145.9,Sra. Mariana Silva,Belo Horizonte,109.99
+2025-04-17,Chuveiro Elétrico,Banheiro,2,1518.93,Maria Julia Melo,Curitiba,13.2
+2025-05-05,Televisão,Entretenimento,5,2581.76,Giovanna Sales,Salvador,154.92
+2025-03-31,Ar Condicionado,Climatização,1,2974.91,Sra. Ana Laura Caldeira,Curitiba,189.87
+2025-05-02,Micro-ondas,Cozinha,1,1615.11,Maria Vitória Moraes,Curitiba,150.23
+2025-05-14,Televisão,Entretenimento,1,699.23,Ana Júlia Freitas,Rio de Janeiro,36.1
+2025-05-05,Forno Elétrico,Cozinha,5,1611.31,Igor Viana,Salvador,157.24
+2025-05-28,Ar Condicionado,Climatização,5,2545.83,Benício Duarte,Rio de Janeiro,12.4
+2025-04-01,Chuveiro Elétrico,Banheiro,5,553.75,Catarina Moraes,Salvador,116.76
+2025-05-11,Ar Condicionado,Climatização,3,2617.92,Otávio Mendes,São Paulo,97.3
+2025-04-19,Televisão,Entretenimento,2,1761.34,Sra. Fernanda Ribeiro,Rio de Janeiro,194.17
+2025-05-05,Chuveiro Elétrico,Banheiro,4,1534.85,Clara Alves,Brasília,132.58
+2025-05-23,Geladeira,Eletrodoméstico,2,2473.08,Ana Jesus,Salvador,112.38
+2025-05-25,Chuveiro Elétrico,Banheiro,5,252.18,Bryan Ramos,São Paulo,62.93
+2025-03-22,Ar Condicionado,Climatização,5,2992.65,Srta. Emanuelly Cunha,Salvador,69.2
+2025-05-23,Micro-ondas,Cozinha,1,446.72,Vicente Jesus,Curitiba,79.49
+2025-04-14,Chuveiro Elétrico,Banheiro,3,2959.55,Alexandre Aragão,Salvador,111.35
+2025-04-22,Televisão,Entretenimento,3,678.32,Nicolas Oliveira,São Paulo,58.04
+2025-04-08,Ar Condicionado,Climatização,1,945.11,Isaac Rezende,Rio de Janeiro,128.97
+2025-04-27,Forno Elétrico,Cozinha,1,1073.17,Luna da Mota,Rio de Janeiro,62.02
+2025-04-05,Forno Elétrico,Cozinha,3,2534.11,Maria Luiza Araújo,Brasília,42.33
+2025-04-09,Micro-ondas,Cozinha,3,1055.29,Lorenzo Pinto,Belo Horizonte,112.23
+2025-03-08,Micro-ondas,Cozinha,1,2384.45,Emanuella Nascimento,Brasília,136.91
+2025-04-09,Chuveiro Elétrico,Banheiro,4,257.28,Paulo da Mata,São Paulo,133.34
+2025-03-15,Televisão,Entretenimento,3,427.26,Manuela da Paz,Brasília,55.85
+2025-05-13,Chuveiro Elétrico,Banheiro,4,2816.98,Leandro Carvalho,São Paulo,166.21
+2025-04-05,Geladeira,Eletrodoméstico,5,2604.72,Paulo Moraes,Rio de Janeiro,120.76
+2025-04-15,Chuveiro Elétrico,Banheiro,2,1997.6,Dra. Ana Carolina da Paz,Brasília,182.41
+2025-05-20,Micro-ondas,Cozinha,1,2482.17,Vitória Barbosa,Brasília,93.24
+2025-04-07,Forno Elétrico,Cozinha,5,1201.37,Larissa Mendes,Salvador,191.23
+2025-03-13,Forno Elétrico,Cozinha,3,654.52,Sr. Renan Costa,Curitiba,102.93
+2025-03-01,Chuveiro Elétrico,Banheiro,3,302.12,Camila Melo,Belo Horizonte,109.08
+2025-04-01,Ar Condicionado,Climatização,4,2001.76,Gustavo Henrique Mendes,São Paulo,79.32
+2025-03-02,Televisão,Entretenimento,2,2509.79,Enzo Farias,Brasília,48.2
+2025-03-22,Chuveiro Elétrico,Banheiro,5,1257.33,Sra. Bianca Ferreira,Belo Horizonte,80.57
+2025-05-16,Forno Elétrico,Cozinha,4,1990.82,Maria Eduarda Monteiro,Salvador,127.12
+2025-05-15,Forno Elétrico,Cozinha,5,848.07,Paulo Almeida,Rio de Janeiro,85.49
+2025-04-11,Chuveiro Elétrico,Banheiro,2,698.25,Gustavo Henrique da Rosa,Belo Horizonte,173.3
+2025-03-08,Televisão,Entretenimento,2,2722.39,Sr. Leonardo Alves,Rio de Janeiro,131.16
+2025-04-29,Ar Condicionado,Climatização,5,143.33,Dra. Ana Laura Sales,Brasília,163.98
+2025-03-03,Micro-ondas,Cozinha,5,1518.69,Diogo Porto,Salvador,121.79
+2025-03-12,Ar Condicionado,Climatização,2,459.97,Davi Lucca Monteiro,Salvador,177.21
+2025-05-02,Televisão,Entretenimento,4,1111.86,Mirella Nunes,Rio de Janeiro,61.84
+2025-03-19,Televisão,Entretenimento,5,585.12,Ian Caldeira,Brasília,160.95
+2025-05-23,Televisão,Entretenimento,4,2343.47,Melissa Lopes,Rio de Janeiro,164.15
+2025-04-05,Geladeira,Eletrodoméstico,3,265.98,Paulo Nunes,São Paulo,67.59
+2025-03-07,Ar Condicionado,Climatização,1,458.82,Eloah da Cunha,Curitiba,115.49
+2025-04-01,Geladeira,Eletrodoméstico,2,2796.22,Srta. Maysa Martins,Salvador,115.29
+2025-05-03,Geladeira,Eletrodoméstico,4,1543.28,Maria Cecília Cardoso,Curitiba,79.23
+2025-03-22,Forno Elétrico,Cozinha,3,1220.34,Lavínia Mendes,Belo Horizonte,79.51
+2025-05-25,Televisão,Entretenimento,4,1489.62,Luna Farias,Belo Horizonte,27.33
+2025-04-22,Televisão,Entretenimento,4,232.35,Sra. Isadora Porto,Belo Horizonte,99.7
+2025-04-17,Ar Condicionado,Climatização,1,2946.83,Maria Fernanda da Cruz,Rio de Janeiro,76.81
+2025-04-18,Televisão,Entretenimento,4,904.64,Emanuelly Sales,São Paulo,30.01
+2025-04-16,Geladeira,Eletrodoméstico,1,250.82,Sra. Joana Gonçalves,Curitiba,137.62
+2025-04-18,Ar Condicionado,Climatização,1,1091.8,Maria Luiza Sales,São Paulo,116.67
+2025-04-21,Forno Elétrico,Cozinha,2,2253.32,Dra. Clarice da Costa,Rio de Janeiro,193.38
+2025-04-02,Televisão,Entretenimento,1,978.93,Thiago Rezende,Salvador,26.76
+2025-05-02,Forno Elétrico,Cozinha,2,2886.14,Sr. Enzo Gabriel Melo,Curitiba,23.49
+2025-03-07,Micro-ondas,Cozinha,5,2900.67,Isabelly Jesus,Rio de Janeiro,169.0
+2025-02-28,Micro-ondas,Cozinha,5,2164.39,Marcos Vinicius Novaes,Brasília,62.85
+2025-04-04,Chuveiro Elétrico,Banheiro,4,904.83,Dra. Bianca Ferreira,Rio de Janeiro,27.87
+2025-05-12,Televisão,Entretenimento,2,1544.35,Leonardo Cardoso,Belo Horizonte,165.37
+2025-04-09,Forno Elétrico,Cozinha,2,1029.67,Laura Castro,Brasília,69.93
+2025-05-22,Ar Condicionado,Climatização,5,2727.94,Maria Alice Souza,São Paulo,58.99
+2025-05-18,Televisão,Entretenimento,3,1522.57,Enrico Ribeiro,São Paulo,33.28
+2025-03-12,Geladeira,Eletrodoméstico,5,522.74,Dra. Maria Eduarda Campos,Salvador,153.71
+2025-04-29,Geladeira,Eletrodoméstico,1,2800.63,Nathan da Conceição,São Paulo,162.81
+2025-05-23,Geladeira,Eletrodoméstico,2,2771.66,Lorena Pires,São Paulo,76.35
+2025-05-08,Televisão,Entretenimento,5,1984.49,Henrique Rezende,Rio de Janeiro,142.55
+2025-05-23,Micro-ondas,Cozinha,4,2804.22,Noah Aragão,Curitiba,98.59
+2025-05-03,Chuveiro Elétrico,Banheiro,2,352.03,João Pedro Silva,Brasília,56.55
+2025-04-10,Ar Condicionado,Climatização,2,1727.52,Breno Pinto,Belo Horizonte,115.39
+2025-04-18,Geladeira,Eletrodoméstico,4,1782.46,Dr. Erick Oliveira,Brasília,41.59
+2025-03-04,Chuveiro Elétrico,Banheiro,5,2877.58,Srta. Eduarda da Conceição,São Paulo,20.38
+2025-05-01,Televisão,Entretenimento,1,2573.48,Noah da Conceição,Salvador,172.06
+2025-04-19,Micro-ondas,Cozinha,3,1257.48,Dr. Yuri Nascimento,Brasília,16.19
+2025-05-14,Forno Elétrico,Cozinha,3,132.74,Joana da Mota,Salvador,66.02
+2025-03-07,Micro-ondas,Cozinha,1,1583.88,Esther Pires,Curitiba,32.73
+2025-03-26,Micro-ondas,Cozinha,4,2108.18,Thales Gomes,Salvador,117.26
+2025-02-28,Chuveiro Elétrico,Banheiro,3,2482.71,João Pedro Silveira,Belo Horizonte,34.4
+2025-04-08,Geladeira,Eletrodoméstico,5,2277.03,Sr. Theo da Rocha,Curitiba,171.0
+2025-03-09,Televisão,Entretenimento,5,1219.33,Leandro Moreira,Brasília,180.87
+2025-05-16,Geladeira,Eletrodoméstico,4,2364.35,Erick Lima,Salvador,46.41
+2025-03-19,Chuveiro Elétrico,Banheiro,3,2737.78,Sr. Francisco Ramos,Brasília,39.63
+2025-03-08,Forno Elétrico,Cozinha,5,740.17,Davi Cardoso,Curitiba,111.51
+2025-03-09,Geladeira,Eletrodoméstico,5,2384.65,Yuri Duarte,Brasília,40.13
+2025-03-12,Ar Condicionado,Climatização,1,1254.17,Theo Porto,São Paulo,106.06
+2025-04-01,Geladeira,Eletrodoméstico,3,2653.57,Augusto Pereira,Salvador,105.85
+2025-03-30,Televisão,Entretenimento,4,2483.05,Thomas Nogueira,São Paulo,136.0
+2025-04-11,Ar Condicionado,Climatização,3,1215.43,Davi Lucas Freitas,Rio de Janeiro,198.37
+2025-04-04,Micro-ondas,Cozinha,1,2415.44,Raquel Fogaça,Belo Horizonte,71.56
+2025-04-23,Chuveiro Elétrico,Banheiro,3,1806.7,Dr. Luiz Felipe da Cunha,Curitiba,144.89
+2025-04-20,Geladeira,Eletrodoméstico,3,1794.71,Maria Mendes,Rio de Janeiro,179.89
+2025-04-20,Forno Elétrico,Cozinha,4,183.91,Pedro Lucas Gonçalves,Salvador,185.52
+2025-05-07,Geladeira,Eletrodoméstico,1,133.77,Maysa Viana,São Paulo,14.12
+2025-04-02,Forno Elétrico,Cozinha,3,1689.7,Sr. Lucas Melo,Belo Horizonte,166.1
+2025-04-25,Televisão,Entretenimento,4,2332.67,Kamilly Almeida,Brasília,43.71
+2025-04-08,Micro-ondas,Cozinha,5,636.44,Luigi Melo,Curitiba,170.31
+2025-03-24,Ar Condicionado,Climatização,1,2405.82,Emanuella Lima,Salvador,155.8
+2025-04-27,Ar Condicionado,Climatização,1,2574.95,Vitor Gabriel da Rosa,Brasília,102.42
+2025-05-15,Forno Elétrico,Cozinha,5,1065.17,Dr. Bruno Costela,Salvador,18.02
+2025-03-05,Chuveiro Elétrico,Banheiro,4,164.08,Sr. Gustavo Silva,Salvador,99.4
+2025-05-05,Televisão,Entretenimento,2,435.86,Lavínia da Cunha,Rio de Janeiro,105.1
+2025-03-05,Ar Condicionado,Climatização,5,1649.83,Amanda Porto,São Paulo,54.27
+2025-03-09,Chuveiro Elétrico,Banheiro,4,2907.98,Henrique Moraes,Brasília,161.6
+2025-03-23,Chuveiro Elétrico,Banheiro,1,1866.83,Thiago da Cruz,São Paulo,88.35
+2025-05-19,Televisão,Entretenimento,4,282.44,Pietro Cavalcanti,Curitiba,10.46
+2025-03-29,Chuveiro Elétrico,Banheiro,4,1231.38,Maria Luiza Jesus,Brasília,149.38
+2025-03-11,Televisão,Entretenimento,4,147.05,Kamilly Alves,São Paulo,105.01
+2025-04-06,Chuveiro Elétrico,Banheiro,2,1235.75,Yasmin Jesus,Salvador,167.24
+2025-04-16,Ar Condicionado,Climatização,5,1355.2,Srta. Amanda Carvalho,Salvador,177.23
+2025-05-08,Geladeira,Eletrodoméstico,4,1703.9,Noah Oliveira,São Paulo,82.62
+2025-03-14,Ar Condicionado,Climatização,3,2921.35,Kaique Gomes,Salvador,167.21
+2025-04-19,Televisão,Entretenimento,1,892.46,Benjamin Ferreira,Belo Horizonte,130.56
+2025-04-16,Geladeira,Eletrodoméstico,1,2831.73,Diego Ramos,Rio de Janeiro,83.32
+2025-04-14,Forno Elétrico,Cozinha,1,2180.6,Thomas da Rocha,Brasília,155.22
+2025-05-21,Micro-ondas,Cozinha,2,221.6,Felipe Novaes,São Paulo,186.89
+2025-03-11,Chuveiro Elétrico,Banheiro,5,2316.88,Thales Teixeira,Brasília,67.63
+2025-04-15,Geladeira,Eletrodoméstico,1,2389.07,Calebe Pinto,Salvador,105.46
+2025-03-25,Ar Condicionado,Climatização,2,1737.34,Enrico Duarte,Salvador,114.06
+2025-05-09,Forno Elétrico,Cozinha,5,1521.58,Gabrielly Monteiro,São Paulo,107.17
+2025-05-23,Ar Condicionado,Climatização,5,525.22,João Silva,Brasília,157.58
+2025-03-19,Forno Elétrico,Cozinha,4,312.14,Catarina Rodrigues,Salvador,147.18
+2025-04-08,Micro-ondas,Cozinha,2,378.49,Henrique Mendes,Belo Horizonte,160.7
+2025-04-13,Ar Condicionado,Climatização,1,505.05,Sr. João Pedro Cardoso,Belo Horizonte,112.98
+2025-04-26,Ar Condicionado,Climatização,3,2606.92,Rebeca Castro,Curitiba,40.93
+2025-04-04,Micro-ondas,Cozinha,4,226.01,Clarice Cunha,Rio de Janeiro,25.89
+2025-03-09,Forno Elétrico,Cozinha,2,2202.6,Isis Moraes,Brasília,121.83
+2025-03-24,Geladeira,Eletrodoméstico,1,1169.23,Rodrigo Ramos,São Paulo,106.64
+2025-03-21,Forno Elétrico,Cozinha,5,1059.26,Gustavo Henrique Monteiro,Salvador,108.83
+2025-05-15,Chuveiro Elétrico,Banheiro,1,1273.29,Luiz Otávio da Mata,Brasília,51.1
+2025-04-19,Micro-ondas,Cozinha,3,1578.38,Carolina Rodrigues,Salvador,91.15
+2025-04-17,Geladeira,Eletrodoméstico,2,1602.39,Cecília Almeida,Belo Horizonte,178.41
+2025-03-02,Televisão,Entretenimento,2,384.32,Alícia da Cruz,Belo Horizonte,179.08
+2025-03-29,Forno Elétrico,Cozinha,5,1535.23,Rodrigo Santos,Belo Horizonte,128.54
+2025-03-26,Chuveiro Elétrico,Banheiro,5,139.1,Lucca Duarte,Rio de Janeiro,186.36
+2025-04-12,Geladeira,Eletrodoméstico,5,2095.4,Srta. Evelyn Gomes,Curitiba,84.84
+2025-05-06,Geladeira,Eletrodoméstico,2,2930.08,Letícia Fernandes,São Paulo,60.98
+2025-05-19,Ar Condicionado,Climatização,2,881.69,Luiz Henrique da Cunha,Brasília,176.47
+2025-04-02,Ar Condicionado,Climatização,2,554.36,Davi Lucas Rocha,Salvador,92.88
+2025-03-15,Forno Elétrico,Cozinha,3,211.3,Alana da Luz,Rio de Janeiro,155.67
+2025-04-08,Ar Condicionado,Climatização,5,568.37,Srta. Eloah Lima,Belo Horizonte,190.54
+2025-04-21,Micro-ondas,Cozinha,4,1444.51,Sarah Dias,Brasília,10.78
+2025-04-18,Geladeira,Eletrodoméstico,1,446.16,Yago Moreira,Curitiba,177.5
+2025-05-24,Forno Elétrico,Cozinha,3,2999.26,Maria Cecília Cardoso,São Paulo,190.56
+2025-05-03,Televisão,Entretenimento,1,1113.16,Ana Júlia Gonçalves,Brasília,95.78
+2025-05-26,Televisão,Entretenimento,2,1039.54,Vitor Azevedo,Brasília,76.52
+2025-03-02,Televisão,Entretenimento,3,2037.12,Isadora Dias,Curitiba,133.1
+2025-04-12,Forno Elétrico,Cozinha,1,1540.18,Vitória Sales,Salvador,182.5
+2025-05-04,Televisão,Entretenimento,3,2843.16,Catarina Gomes,Curitiba,106.76
+2025-05-27,Forno Elétrico,Cozinha,2,2567.28,Larissa Rezende,São Paulo,178.42
+2025-03-18,Geladeira,Eletrodoméstico,2,1424.47,Sra. Isabel da Mota,Rio de Janeiro,81.86
+2025-05-01,Televisão,Entretenimento,5,2168.62,Maria Vitória da Luz,Brasília,180.9
+2025-03-29,Ar Condicionado,Climatização,2,857.4,Luiz Fernando Martins,Salvador,100.99
+2025-05-16,Chuveiro Elétrico,Banheiro,4,370.0,Sr. Thales Rodrigues,Belo Horizonte,190.79
+2025-03-10,Chuveiro Elétrico,Banheiro,1,2936.54,João Moura,Belo Horizonte,14.55
+2025-05-06,Micro-ondas,Cozinha,1,2420.99,Henrique da Luz,Rio de Janeiro,97.07
+2025-04-12,Forno Elétrico,Cozinha,4,384.22,Sra. Isabella da Paz,Belo Horizonte,167.79
+2025-03-14,Micro-ondas,Cozinha,4,2319.09,Esther Ramos,Belo Horizonte,99.11
+2025-03-05,Chuveiro Elétrico,Banheiro,2,2847.93,Leandro Nascimento,Belo Horizonte,43.62
+2025-03-08,Forno Elétrico,Cozinha,3,499.71,Mariane Alves,Rio de Janeiro,31.66
+2025-03-28,Chuveiro Elétrico,Banheiro,3,1670.83,Laís da Mata,Salvador,62.28
+2025-04-22,Ar Condicionado,Climatização,3,2865.9,Marcela Pires,Rio de Janeiro,115.37
+2025-05-11,Micro-ondas,Cozinha,2,122.76,Caroline Silva,Brasília,170.98
+2025-05-02,Geladeira,Eletrodoméstico,3,536.92,Igor Campos,Curitiba,27.03
+2025-03-01,Geladeira,Eletrodoméstico,1,207.83,Sra. Carolina Cunha,Salvador,51.12
+2025-05-06,Televisão,Entretenimento,2,1379.67,Marina Sales,Rio de Janeiro,99.79
+2025-03-14,Televisão,Entretenimento,4,2556.75,Maria Teixeira,São Paulo,45.63
+2025-05-18,Ar Condicionado,Climatização,2,2572.68,Levi Gonçalves,Curitiba,145.67
+2025-03-11,Televisão,Entretenimento,2,2432.56,Igor Sales,Salvador,57.15
+2025-03-29,Forno Elétrico,Cozinha,1,2611.67,Noah da Paz,São Paulo,142.84
+2025-04-27,Micro-ondas,Cozinha,1,1849.13,Maria Julia Barros,Belo Horizonte,93.79
+2025-03-11,Ar Condicionado,Climatização,4,414.33,Sra. Gabrielly Teixeira,Rio de Janeiro,148.53
+2025-05-23,Chuveiro Elétrico,Banheiro,1,236.69,Isadora Barros,Salvador,121.35
+2025-05-10,Televisão,Entretenimento,2,569.81,Sr. Matheus Ribeiro,Curitiba,125.83
+2025-04-04,Geladeira,Eletrodoméstico,2,190.95,Caroline Costa,Brasília,30.36
+2025-05-19,Televisão,Entretenimento,5,2530.45,Igor da Cruz,Rio de Janeiro,189.88
+2025-04-20,Geladeira,Eletrodoméstico,4,510.1,Alexandre Martins,Belo Horizonte,43.46
+2025-05-11,Chuveiro Elétrico,Banheiro,3,141.89,Dra. Camila da Costa,Belo Horizonte,197.73
+2025-04-16,Chuveiro Elétrico,Banheiro,3,431.13,Bruno da Costa,Curitiba,172.97
+2025-05-02,Ar Condicionado,Climatização,4,2446.16,Kevin Pereira,Rio de Janeiro,48.85
+2025-03-28,Micro-ondas,Cozinha,5,974.37,Ana Julia Costa,Curitiba,32.02
+2025-03-11,Ar Condicionado,Climatização,4,1320.18,Igor Castro,Rio de Janeiro,134.04
+2025-03-07,Televisão,Entretenimento,2,2712.64,Arthur Pires,São Paulo,42.86
+2025-04-06,Chuveiro Elétrico,Banheiro,2,539.98,Matheus Peixoto,Belo Horizonte,76.84
+2025-05-14,Chuveiro Elétrico,Banheiro,3,1435.25,Agatha Carvalho,Belo Horizonte,85.86
+2025-05-15,Micro-ondas,Cozinha,2,2888.89,Sr. Ian Alves,Rio de Janeiro,49.24
+2025-04-18,Ar Condicionado,Climatização,1,107.86,Benjamin da Costa,Rio de Janeiro,51.21
+2025-05-27,Televisão,Entretenimento,3,2237.28,Thiago Pinto,Brasília,121.32
+2025-04-10,Chuveiro Elétrico,Banheiro,4,1974.93,João Vitor Cardoso,Belo Horizonte,24.01
+2025-03-11,Ar Condicionado,Climatização,2,1799.96,Sophia Almeida,Brasília,152.62
+2025-05-09,Chuveiro Elétrico,Banheiro,3,2861.04,Fernando da Cruz,Brasília,56.88
+2025-04-27,Televisão,Entretenimento,3,689.45,Nathan Rodrigues,Rio de Janeiro,48.58
+2025-03-07,Forno Elétrico,Cozinha,3,2694.71,Dr. Kaique Azevedo,São Paulo,13.2
+2025-03-06,Ar Condicionado,Climatização,1,1630.31,Ana Sophia Peixoto,Salvador,113.93
+2025-04-06,Chuveiro Elétrico,Banheiro,2,1908.74,Nathan Araújo,Salvador,60.24
+2025-05-14,Chuveiro Elétrico,Banheiro,4,1053.7,João Pedro Souza,Salvador,134.02
+2025-04-19,Televisão,Entretenimento,3,1292.78,Clarice Caldeira,São Paulo,90.18
+2025-03-07,Micro-ondas,Cozinha,5,746.21,Isis da Paz,Curitiba,189.34
+2025-05-09,Micro-ondas,Cozinha,5,1370.39,Alana da Rocha,Rio de Janeiro,185.5
+2025-03-12,Geladeira,Eletrodoméstico,1,1083.55,Gabriel Carvalho,Rio de Janeiro,61.92
+2025-04-20,Chuveiro Elétrico,Banheiro,3,1081.11,Lorenzo Azevedo,Curitiba,122.77
+2025-04-23,Micro-ondas,Cozinha,1,1032.35,Joaquim Freitas,Belo Horizonte,35.29
+2025-03-15,Micro-ondas,Cozinha,4,2382.67,Carolina da Mata,Salvador,52.81
+2025-03-07,Chuveiro Elétrico,Banheiro,3,786.05,Luigi Jesus,Rio de Janeiro,165.17
+2025-04-08,Chuveiro Elétrico,Banheiro,1,463.53,Amanda da Conceição,Brasília,158.55
+2025-04-02,Geladeira,Eletrodoméstico,4,221.42,Ana Julia Nogueira,Brasília,126.36
+2025-04-07,Forno Elétrico,Cozinha,1,970.93,Camila Pereira,São Paulo,101.49
+2025-05-11,Televisão,Entretenimento,4,743.18,Gustavo Henrique Rezende,Curitiba,144.76
+2025-04-22,Micro-ondas,Cozinha,1,224.44,Enzo Fogaça,Belo Horizonte,127.38
+2025-05-01,Micro-ondas,Cozinha,3,1875.16,Heitor da Mata,Salvador,184.11
+2025-04-20,Chuveiro Elétrico,Banheiro,3,349.62,Marina da Luz,Curitiba,197.39
+2025-03-06,Televisão,Entretenimento,1,1080.41,Thales Campos,Belo Horizonte,130.23
+2025-03-30,Televisão,Entretenimento,3,2621.93,Manuela Freitas,São Paulo,57.19
+2025-03-25,Televisão,Entretenimento,5,1983.69,Dra. Joana da Cunha,Belo Horizonte,100.53
+2025-04-24,Forno Elétrico,Cozinha,2,2651.55,Emanuella Caldeira,São Paulo,100.55
+2025-03-31,Televisão,Entretenimento,4,1995.71,Daniel Viana,Salvador,185.71
+2025-05-21,Geladeira,Eletrodoméstico,1,452.56,Yago Moreira,São Paulo,110.08
+2025-05-25,Micro-ondas,Cozinha,2,1645.54,Bryan da Luz,São Paulo,153.59
+2025-03-30,Micro-ondas,Cozinha,2,715.55,João Lucas Novaes,Belo Horizonte,57.4
+2025-04-06,Televisão,Entretenimento,4,2580.95,João Gabriel Lima,Brasília,22.64
+2025-05-28,Chuveiro Elétrico,Banheiro,3,230.02,Srta. Lívia Nunes,Curitiba,62.68
+2025-04-22,Micro-ondas,Cozinha,5,116.8,Lorenzo Almeida,Curitiba,56.26
+2025-05-24,Ar Condicionado,Climatização,2,2424.11,Luiz Fernando Moreira,Rio de Janeiro,129.13
+2025-03-04,Micro-ondas,Cozinha,3,2881.05,Mariana Santos,Salvador,136.74
+2025-05-25,Ar Condicionado,Climatização,5,2072.37,Ana da Mota,Rio de Janeiro,40.63
+2025-04-11,Televisão,Entretenimento,4,2422.07,Alice da Cruz,Curitiba,129.89
+2025-05-21,Chuveiro Elétrico,Banheiro,3,2709.88,Sra. Emilly Mendes,Rio de Janeiro,191.92
