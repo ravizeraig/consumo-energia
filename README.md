@@ -1,3 +1,6 @@
+![CI](https://github.com/ravizeraig/consumo-energia/actions/workflows/ci.yml/badge.svg)
+
+
 # Projeto Consumo de Energia — Análise e Notificação
 
 ## Introdução
