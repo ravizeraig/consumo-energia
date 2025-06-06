@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "===== INICIANDO O ENTRYPOINT ====="
 echo "Variáveis de ambiente disponíveis:"
 env
