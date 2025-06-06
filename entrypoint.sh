@@ -1,7 +1,9 @@
 #!/bin/bash
-set -e
 
 echo "===== INICIANDO O ENTRYPOINT ====="
+echo "Variáveis de ambiente disponíveis:"
+env
+
 echo "Ambiente: $ENV"
 echo "Banco: $DB_HOST:$DB_PORT"
 
@@ -15,5 +17,5 @@ if [ "$ENV" = "production" ]; then
   exec python -m main.main
 else
   echo "Aguardando o banco de dados (modo desenvolvimento)..."
-  ./wait-for-it.sh "$DB_HOST" "$DB_PORT" --timeout=30 --strict -- echo "✅ Banco disponível, iniciando app..." && exec python -m main.main
+  ./wait-for-it.sh "$DB_HOST" "$DB_PORT" -- python -m main.main
 fi
