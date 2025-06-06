@@ -1,8 +1,10 @@
-#!/bin/bash
-
 echo "===== INICIANDO O ENTRYPOINT ====="
 echo "Variáveis de ambiente disponíveis:"
 env
+
+# Limpa espaços
+DB_HOST=$(echo "$DB_HOST" | xargs)
+DB_PORT=$(echo "$DB_PORT" | xargs)
 
 echo "Ambiente: $ENV"
 echo "Banco: $DB_HOST:$DB_PORT"
