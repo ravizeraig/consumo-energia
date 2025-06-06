@@ -15,7 +15,7 @@ print("DATABASE_URL:", DATABASE_URL)
 engine = create_engine(DATABASE_URL, echo=True)  # echo=True ajuda a depurar
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
-Base.metadata.create_all(engine)
+#Base.metadata.create_all(engine)
 
 def criar_sessao():
     return SessionLocal()
