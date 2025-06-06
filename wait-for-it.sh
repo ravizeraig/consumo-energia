@@ -13,4 +13,3 @@ done
 
 >&2 echo "✅ Banco de dados está disponível — executando o app!"
 exec $cmd
-
