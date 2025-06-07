@@ -1,46 +1,123 @@
 ![CI](https://github.com/ravizeraig/consumo-energia/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-✔️-blue)
 
+# ⚡ Projeto Consumo de Energia — Análise e Notificação
 
-# Projeto Consumo de Energia — Análise e Notificação
+## 📌 Visão Geral
 
-## Introdução
-
-Este projeto tem como objetivo monitorar o consumo de energia (kWh) por regiões a partir de um banco de dados criado para teste. O sistema lê os dados, realiza somatórios, verifica o consumo, e envia notificações por email para usuários cadastrados. O foco principal é aplicar boas práticas de segurança, integração contínua e deploy usando Docker.
-
----
-
-## Tecnologias e Ferramentas
-
-- Python 3.x  
-- Banco de dados: PostgreSQL para armazenamento dos dados  
-- Docker para containerização  
-- Variáveis de ambiente com `.env` para segurança  
-- Jupyter Notebook para validação e análise dos dados  
-- SMTP para envio seguro de emails, evitando exposição de senhas
+Este projeto realiza o monitoramento do consumo de energia (kWh) por região, a partir de dados armazenados em um banco PostgreSQL. A aplicação realiza análises automáticas e envia alertas por e-mail quando o consumo atinge níveis críticos. Tudo é executado com segurança e automação via Docker e GitHub Actions (CI/CD).
 
 ---
 
-## Como foi construído
+## 🚀 Tecnologias Utilizadas
 
-1. **Criação dos dados:** Geração de dados de consumo de energia para diferentes regiões, inseridos em uma tabela PostgreSQL para simulação.  
-2. **Configuração do banco:** Tabela criada com esquema para armazenar dados e cadastro de usuários para envio de emails.  
-3. **Validação e análise:** Uso de Jupyter Notebook para validar os dados e garantir integridade.  
-4. **Lógica do projeto:**  
-   - Leitura dos dados do banco  
-   - Cálculo do consumo total por região  
-   - Verificação de limites/alertas de consumo  
-   - Consulta dos usuários cadastrados para notificações  
-5. **Envio de email:** Integração com servidor SMTP, utilizando variáveis de ambiente para credenciais, garantindo segurança.  
-6. **Containerização:** Dockerfile criado para build e deploy do projeto, facilitando distribuição e execução.  
-7. **CI/CD (em andamento):** Planejado para automação de testes e deploy em ambiente controlado.
+- **Python 3.x**
+- **PostgreSQL** (local ou na nuvem - Render)
+- **Docker**
+- **GitHub Actions** (CI/CD)
+- **SMTP** (envio de e-mails com segurança)
+- **SQLAlchemy** (ORM)
+- **dotenv** (`.env` para variáveis sensíveis)
+- **Jupyter Notebook** (para testes e validações)
 
 ---
 
-## Como usar
+## 📂 Estrutura de Diretórios
 
-1. Clone o repositório  
-2. Crie e configure o arquivo `.env` com as variáveis necessárias (exemplo: credenciais SMTP, conexão com PostgreSQL)  
-3. Execute o container Docker:  
-   ```bash
-   docker build -t cd-app .
-   docker run --env-file .env cd-app
+main/
+├── db.py # Conexão com banco
+├── enviar_email.py # Envio de alertas
+├── gerar_relatorio.py # Cálculos e verificações
+├── models.py # Tabelas do banco (ORM)
+└── main.py # Execução principal
+.env.example # Exemplo de variáveis de ambiente
+Dockerfile # Build Docker
+
+yaml
+Copiar
+Editar
+
+---
+
+## ⚙️ Configuração
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/ravizeraig/consumo-energia.git
+cd consumo-energia
+```
+### 2. Configure seu `.env`
+
+Crie um arquivo `.env` com base no `.env.example`:
+
+```env
+# Configurações de email
+EMAIL_REMETENTE=seu_email@example.com
+SENHA_APP=sua_senha_de_app
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=465
+
+# Banco de dados
+DATABASE_URL=postgresql+psycopg2://usuario:senha@host:porta/nome_do_banco
+
+# Ambiente
+ENV=development
+````
+✅ Para usar o banco no Render, substitua host, porta, usuario, senha e nome_do_banco com os dados fornecidos pelo serviço.
+
+✅ Para usar localmente com Docker Compose, use host=db e porta=5432.
+
+---
+## 🐳 Executando com Docker
+
+### 🔧 Build da imagem
+
+```bash
+docker build -t consumo-energia .
+```
+### ▶️ Execução do container com variáveis
+```bash
+Copiar
+Editar
+docker run --env-file .env consumo-energia
+```
+### 🔁 CI/CD com GitHub Actions
+A automação do projeto está configurada com:
+
+CI: Testes automáticos e validação do código a cada push
+
+CD: Deploy automatizado para Render.com via Docker
+
+---
+
+### ✉️ Notificações por Email
+O envio de alertas é feito via SMTP (ex: Gmail), com segurança reforçada usando senhas de aplicativo. Nenhuma senha é exposta no código.
+---
+### ☁️ Banco de Dados na Nuvem (Render)
+Este projeto está pronto para usar o banco PostgreSQL fornecido pelo Render.
+Basta ajustar a DATABASE_URL no .env com as credenciais geradas.
+---
+### 🧪 Validação e Testes
+Os dados e alertas foram validados com:
+---
+### Consultas SQL via SQLAlchemy
+
+Análises com Pandas e Jupyter Notebook
+
+Simulações com dados fictícios para verificar lógica de alertas
+
+---
+### 👨‍💻 Autor
+Desenvolvido por Igor de Paula como projeto prático para portfólio DevOps/Data.
+
+---
+### 📄 Licença
+Este projeto está licenciado sob a MIT License.
+
+Para mais detalhes, consulte o arquivo LICENSE na raiz do repositório.
+
+

@@ -28,11 +28,13 @@ def enviar_relatorio():
 
     # Buscar e-mail do destinatário no banco
     sessao = criar_sessao()
-    usuario = sessao.query(Usuario).first()
-    if not usuario:
-        raise Exception("❌ Nenhum usuário encontrado no banco.")
-
-    email_destinatario = usuario.email
+    try:
+        usuario = sessao.query(Usuario).first()
+        if not usuario:
+            raise Exception("❌ Nenhum usuário encontrado no banco.")
+        email_destinatario = usuario.email
+    finally:
+        sessao.close()
 
     # Caminho do relatório
     relatorio_path = Path(__file__).parent.parent / 'data' / 'relatorio_cidade.xlsx'
