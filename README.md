@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-✔️-blue)
+![Render Worker](https://img.shields.io/badge/Render-Worker_Only-blueviolet)
 
 # ⚡ Projeto Consumo de Energia — Análise e Notificação
 
@@ -34,11 +35,6 @@ main/
 ├── models.py # Tabelas do banco (ORM)
 └── main.py # Execução principal
 .env.example # Exemplo de variáveis de ambiente
-Dockerfile # Build Docker
-
-yaml
-Copiar
-Editar
 
 ---
 
